@@ -445,7 +445,8 @@ a.button:hover {
     position: fixed;
     width: calc(100% - 150px);
     height: 100%;
-    background-color: #000;    
+    background: url(images/desk.jpg) center center;
+    background-size: cover;    
     overflow-y: auto;
     overflow-x: hidden;
     z-index: 998;
